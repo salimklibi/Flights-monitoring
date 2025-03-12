@@ -1,3 +1,7 @@
+# Version finale du code
+# Auteur : Salim Klibi
+# Date : 11/02/2025
+
 import requests
 import psycopg2
 from psycopg2.extras import execute_values
